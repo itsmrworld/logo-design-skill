@@ -6,10 +6,12 @@ from fontTools.pens.svgPathPen import SVGPathPen
 from fontTools.pens.boundsPen import BoundsPen
 
 BLUE="#0B63F6"; INK="#0B1220"; WHITE="#FFFFFF"; BLACK="#000000"; MIST="#F4F7FF"
-SPINE=[(176,98),(166,172),(208,196),(246,216),(294,242),(294,280),(252,290),(231,295),(210,302),(188,314)]
-MAIN=build(SPINE,26,round_r=6)
-# simplified small-size mark: thicker gap, no softening
-SMALL=build([(176,98),(166,172),(208,196),(246,216),(294,242),(294,280),(252,290),(231,295),(210,302),(188,314)],38,round_r=0)
+def SX(x,k=1.06): return 216+(x-216)*k
+_sp=[(166,100),(160,168),(198,196),(240,216),(286,239),(288,272),(252,288),(236,296),(214,298),(190,304)]
+SPINE=[(SX(x),y) for x,y in _sp]
+CIRC=dict(left=(SX(146),231,61),top=(216,212,80),low=(SX(268),237,54))
+MAIN=build(SPINE,24,round_r=2.4,**CIRC)
+SMALL=build(SPINE,38,round_r=0,**CIRC)
 BX0,BY0,BX1,BY1=MAIN.bounds; MW,MH=BX1-BX0,BY1-BY0
 fmt=lambda v:f"{v:.2f}".rstrip('0').rstrip('.')
 def mark_d(shape,cx,cy,width):
