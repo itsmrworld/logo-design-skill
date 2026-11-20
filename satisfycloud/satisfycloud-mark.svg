@@ -1,3 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>SatisfyCloud mark</title><defs><clipPath id="c"><rect x="64" y="290" width="384" height="112" rx="56"/><circle cx="190" cy="268" r="82"/><circle cx="305" cy="232" r="104"/></clipPath>
-<mask id="m"><rect width="512" height="512" fill="#fff"/><path d="M490 140 C330 130 200 160 214 226 C228 290 322 262 330 318 C336 372 210 410 60 440" fill="none" stroke="#000" stroke-width="22"/></mask></defs>
-<g mask="url(#m)"><g clip-path="url(#c)"><rect width="512" height="512" fill="#2A3BFF"/><path d="M490 140 C330 130 200 160 214 226 C228 290 322 262 330 318 C336 372 210 410 60 440 L60 440 L-100 440 L-100 -100 L490 -100 Z" fill="#6F86FF"/></g></g></svg>
