@@ -1,39 +1,48 @@
 # Caption (English)
 
-Every extension, priced in plain sight. 🌐
+Popular domains. Full control. 🔐🌐
 
-Claim your domain from just $1.00 USD for the first year:
+Register the extensions people trust — .com, .net, .org and more — with everything you need included:
 
-• .cfd & .cyou — $1.00 (lowest price)
-• .shop — $1.12 (save 97% year one)
+🕶️ Domain privacy
+📧 Free email forwarding
+🧭 DNS management
+🔒 Registrar lock (protection against unwanted transfers)
+
+First-year registration prices:
+• .com — $11.26
+• .net — $14.14
+• .org — $8.49 (save 41% year one)
 • .online — $1.46 (save 92% year one)
 • .xyz — $2.55 (save 85% year one)
-• .com — $11.26
+• .shop — $1.12 (save 97% year one)
 
-Renewal and transfer prices are always shown before you pay — no surprises.
+Register, renew and transfer prices are always shown before you pay.
 
 Search your name now 👉 https://satisfycloud.com/domain
 
-*First-year registration prices in USD. Renewal prices apply from year two.
+*Prices in USD per year for first-year registration. Renewal rates apply from year two.
 
-#SatisfyCloud #Domains #DomainNames #DomainRegistration #GetOnline
+#SatisfyCloud #Domains #DomainNames #DotCom #GetOnline
 
 ---
 
 # ক্যাপশন (বাংলা)
 
-Every extension, priced in plain sight. 🌐
+Popular domains. Full control. 🔐🌐
 
-মাত্র $1.00 USD থেকে শুরু করুন আপনার ডোমেইন (প্রথম বছর):
+.com, .net, .org-এর মতো জনপ্রিয় এক্সটেনশন, সাথে প্রতিটি ডোমেইনের সাথে পাচ্ছেন:
 
-• .cfd ও .cyou — $1.00 (সর্বনিম্ন দাম)
-• .shop — $1.12 (প্রথম বছরে ৯৭% সাশ্রয়)
-• .online — $1.46 (প্রথম বছরে ৯২% সাশ্রয়)
-• .xyz — $2.55 (প্রথম বছরে ৮৫% সাশ্রয়)
-• .com — $11.26
+🕶️ ডোমেইন প্রাইভেসি
+📧 ফ্রি ইমেইল ফরওয়ার্ডিং
+🧭 DNS ম্যানেজমেন্ট
+🔒 রেজিস্ট্রার লক (অনাকাঙ্ক্ষিত ট্রান্সফার থেকে সুরক্ষা)
 
-রিনিউয়াল ও ট্রান্সফারের দাম পেমেন্টের আগেই দেখানো হয়।
+প্রথম বছরের রেজিস্ট্রেশন মূল্য (USD):
+.com $11.26 · .net $14.14 · .org $8.49 · .online $1.46 · .xyz $2.55 · .shop $1.12
+
+রেজিস্ট্রেশন, রিনিউয়াল ও ট্রান্সফারের দাম পেমেন্টের আগেই দেখানো হয়।
 
 এখনই আপনার নাম খুঁজুন 👉 https://satisfycloud.com/domain
 
-*দামগুলো প্রথম বছরের রেজিস্ট্রেশন মূল্য (USD)। দ্বিতীয় বছর থেকে রিনিউয়াল মূল্য প্রযোজ্য।
+*দ্বিতীয় বছর থেকে রিনিউয়াল মূল্য প্রযোজ্য।

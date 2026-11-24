@@ -50,4 +50,4 @@ See `references/examples.md`. In short: one dominant hero visual (server rack / 
 - When the user shares screenshots of satisfycloud.com (the live site is not reachable from this box), read prices/labels from them at zoom (crop + upscale) and **verify each number** before using it.
 - Pricing posts: show first-year price, label it clearly, and add a fine-print line that renewal/transfer prices apply later (the site lists them). Never claim "up to X%" unless that is the maximum on the site.
 - Website imagery may be reused as a background (crop from the screenshot, upscale, blur slightly, `mix-blend-mode:screen` on a dark background, radial mask to fade edges). Saved in `satisfycloud/social/assets/`.
-- Template: `post-domain-pricing-dark.py` (giant price, glass pricing table, website portrait glow, bottom bar).
+- Template: `post-domain-pricing-dark.py` (popular TLD table, "included with every domain" feature cards, website portrait glow, bottom bar). For domain posts show POPULAR extensions (.com .net .org + popular cheap ones), never obscure ones like .cfd as the headline.
