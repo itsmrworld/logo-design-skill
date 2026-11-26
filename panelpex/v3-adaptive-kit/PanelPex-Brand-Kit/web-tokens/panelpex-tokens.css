@@ -1,0 +1,23 @@
+/* PanelPex colour tokens — light & dark. Contrast ratios are WCAG 2.x, measured against the token's own surface. */
+:root{
+  --px-surface:#ffffff;      /* page */
+  --px-surface-2:#f6f5fb;    /* cards */
+  --px-text:#0c0a1f;         /* 19.5:1 on surface */
+  --px-text-muted:#4b4a63;   /* 8.5:1 on surface */
+  --px-accent:#6d28d9;       /* 7.1:1 on surface — links, buttons */
+  --px-on-accent:#ffffff;    /* 7.1:1 on accent */
+  --px-logo-1:#0c0a1f; --px-logo-2:#6d28d9;
+}
+@media (prefers-color-scheme:dark){
+  :root{
+    --px-surface:#0c0a1f;
+    --px-surface-2:#16132f;
+    --px-text:#f4f3ff;       /* 17:1 on surface */
+    --px-text-muted:#b9b6d6; /* 9.4:1 on surface */
+    --px-accent:#a78bfa;     /* 7.2:1 on surface */
+    --px-on-accent:#0c0a1f;  /* 7.2:1 on accent */
+    --px-logo-1:#ffffff; --px-logo-2:#a78bfa;
+  }
+}
+:root[data-theme="light"]{color-scheme:light}
+:root[data-theme="dark"]{color-scheme:dark}
